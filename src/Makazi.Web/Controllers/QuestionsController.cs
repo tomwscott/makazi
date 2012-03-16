@@ -18,5 +18,10 @@ namespace Makazi.Web.Controllers
         {
             return Redirect("preferences");
         }
+
+        public ActionResult Index()
+        {
+            return View();
+        }
     }
 }

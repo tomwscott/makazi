@@ -1,0 +1,20 @@
+﻿@font-face {
+	font-family: 'SUN3';
+    src: url('Sun_LT_3_.eot?#iefix'); /* IE 5-8 */ 
+    src: local('☺'), /* sneakily trick IE */
+	     url('Sun_LT_3_.woff') format('woff'), /* FF 3.6, Chrome 5, IE9 */
+	     url('Sun_LT_3_.ttf') format('truetype'), /* Opera, Safari */
+	     url('Sun_LT_3_.svg#font') format('svg'); /* iOS */
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SUN7';
+    src: url('Sun_LT_7_.eot?#iefix'); /* IE 5-8 */ 
+    src: local('☺'), /* sneakily trick IE */
+         url('Sun_LT_7_.woff') format('woff'), /* FF 3.6, Chrome 5, IE9 */
+         url('Sun_LT_7_.ttf') format('truetype'), /* Opera, Safari */
+         url('Sun_LT_7_.svg#font') format('svg'); /* iOS */
+	font-weight: normal;
+	font-style: normal;
+}
